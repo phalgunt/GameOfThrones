@@ -1,0 +1,6 @@
+A,Castle Black,15,15,3
+B,Eastwatch by the Sea,15,15,3
+C,Deepwood Motte,15,15,3
+D,Winterfell,75,75,15
+E,White Harbor,30,30,6
+Z,Braavos,50,50,10
